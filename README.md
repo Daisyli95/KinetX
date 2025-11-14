@@ -2,6 +2,12 @@
 Official repository for 'BiCoA-Net: An Interpretable Bidirectional Co-Attention Framework for Predicting Protein-Ligand Binding Kinetics'
 
 
-1. KinetiX.csv is the benchmark we curated.
-2. Our code is still being cleaned, we will update this repository once the cleaning work is finised.
+ KinetiX.csv is the dataset we curated.
 
+
+## Usage 
+python inference.py \
+    --checkpoint path/to/your/model.pt \
+    --input input_data.csv \
+    --output predictions.csv \
+    --device cuda
