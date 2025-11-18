@@ -1,9 +1,14 @@
 # BiCoA-Net
-Official repository for 'BiCoA-Net: An Interpretable Bidirectional Co-Attention Framework for Predicting Protein-Ligand Binding Kinetics'
+Official repository for 'BiCoA-Net: An Interpretable Bidirectional Co-Attention Framework for Predicting Protein-Ligand Binding Kinetics (Under Reivew)'
 
 
  KinetiX.csv is the dataset we curated.
 
+## First install the dependencies
+git clone https://github.com/Daisyli95/KineticX.git
+cd KineticX
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
 
 ## Usage 
 1. Download the model weights from the directory model_weights.
