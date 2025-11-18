@@ -87,7 +87,7 @@ python inference.py \
 
 ## 📦 Model Weights
 
-Pre-trained model checkpoints are available in the `model_weights/` directory.
+Pre-trained model checkpoints are available in the `model_weights/` directory via Hugging Face.
 
 
 ## 📄 License
