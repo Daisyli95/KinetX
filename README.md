@@ -20,6 +20,9 @@ BiCoA-Net is a deep learning framework designed to predict protein-ligand bindin
 - Contains protein FASTA sequences and ligand SMILES strings
 - Includes experimental kinetic measurements
 
+**casestudy.csv**-The dataset contain information about the four held-out targets, with no overlap with KinetX.csv. 
+
+
 ## 🛠️ Installation
 
 ### Prerequisites
