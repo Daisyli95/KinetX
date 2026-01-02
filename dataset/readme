@@ -1,4 +1,0 @@
-There are two splitting schemes:
-
-For random split, we have 5 independent runs with 5 different random seeds.
-For cold-start scenerios, we use MMSEQ to split the data according to sequence similarity, and the resulted are less than 30 sequence similarity to split the train, validation and test sets,.
