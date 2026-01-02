@@ -16,7 +16,7 @@ BiCoA-Net is a deep learning framework designed to predict protein-ligand bindin
 
 ## 📊 Dataset
 
-**KinetiX.csv** - A curated dataset for protein-ligand binding kinetics prediction.
+**KinetX.csv** - A curated dataset for protein-ligand binding kinetics prediction.
 - Contains protein FASTA sequences and ligand SMILES strings
 - Includes experimental kinetic measurements
 
@@ -32,7 +32,7 @@ BiCoA-Net is a deep learning framework designed to predict protein-ligand bindin
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Daisyli95/KineticX.git
-cd KineticX
+cd KinetX
 ```
 
 2. **Install PyTorch (CUDA 11.8)**
